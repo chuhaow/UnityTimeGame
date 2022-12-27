@@ -10,4 +10,4 @@ Proof of concept for a game idea in which the player solves puzzles using their 
 - Objects that are pushed while frozen have the energy of the pushes build up and is released all at once upon being unfrozen
 ### Sliding
 - The player will being to slide off of a surface if it is deemed to steep
-
+![Showcase](https://github.com/chuhaow/ProjectGifs/blob/main/TimeGame/showcase.gif)
