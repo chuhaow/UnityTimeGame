@@ -11,5 +11,5 @@ Proof of concept for a game idea in which the player solves puzzles using their 
 ### Sliding
 - The player will being to slide off of a surface if it is deemed to steep
 
-### Showcase
+### Showcase Gif
 ![Showcase](https://github.com/chuhaow/ProjectGifs/blob/main/TimeGame/showcase.gif)
